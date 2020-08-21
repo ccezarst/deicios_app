@@ -1,0 +1,2 @@
+def restart():
+	import main

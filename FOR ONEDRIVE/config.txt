@@ -1,0 +1,9 @@
+Cod Produs
+Denumire
+Furnizor
+Categorie 1
+Categorie 2
+Regula pret
+Cost de achizitie
+Marja Comerciala
+Comestibil

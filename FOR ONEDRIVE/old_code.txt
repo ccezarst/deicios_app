@@ -1,0 +1,10 @@
+            '''x = i+1
+            buttonlist.append(Button(second_frame, text=tupple[1], command=lambda: insert(i, dbentry, second_frame)))
+            buttonlist[i+1].grid(column=0, row=x)
+            buttonposlist.append(x)
+            i += 1
+            print(i)
+        up = Button(second_frame, text="SCROLL UP", bg="yellow", command=lambda: scroll(up))
+        up.place(x = 200, y=0)
+        down = Button(second_frame, text="SCROLL DOWN", bg="yellow", command=lambda: scroll(down))
+        down.place(x = 200, y=30)'''
